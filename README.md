@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Throughout my 14+ year career, I have gained extensive experience in all aspects of software development. My journey began straight out of university, where I joined Slideshare as one of their first software engineers. Since then, I've been deeply involved in the development of diverse software products, ranging from e-commerce marketplaces to adtech platforms and machine learning solutions.
+
+I've demonstrated strong leadership skills as the Senior Engineering Manager at Tradus, where I managed a team of 15 engineers and delivered India's first true e-commerce marketplace. I've also flexed my technical muscles while creating scalable, robust systems and APIs for Mailinblue and HTMedia, among others.
+
+As a Machine Learning consultant at Hike Limited, I combined my software development prowess with my deep understanding of machine learning to contribute to multiple patent filings and published papers. My experience also includes several successful migrations and transformations, like migrating Magento to a custom platform for Nykaa and transforming legacy systems into profitable businesses.
+
+Overall, my software development experience spans multiple industries, languages, and technologies, and I'm always ready for the next challenge. I thrive in environments that value innovation, scalability, and sound architecture. My career reflects my commitment to creating impactful solutions that drive business growth and my unwavering dedication to technology excellence.
