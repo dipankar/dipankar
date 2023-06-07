@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```markdown
 🚀 In my rad 14+ year journey in the tech world, I've become a legit software wizard! 🧙‍♂️ It all started straight out of university when I joined Slideshare as one of their pioneer software engineers. 🎓👨‍💻 Since then, I've been coding my way through different fields, creating everything from e-commerce platforms 🛍️ to adtech solutions 📊 and advanced machine learning systems 🤖.
 
 As the big boss (aka Senior Engineering Manager) at Tradus, I led a team of 15 talented engineers, and we launched India's first true e-commerce marketplace. 🛠️🏬 At Mailinblue and HTMedia, I designed solid, scalable systems and APIs, proving there's no tech challenge too big for me! 💪🔧
@@ -22,4 +21,3 @@ As the big boss (aka Senior Engineering Manager) at Tradus, I led a team of 15 t
 At Hike Limited, I lived my best life as a Machine Learning consultant, merging my software dev skills with my ML knowledge to file multiple patents and publish research papers. 📚👩‍🔬 I've also aced several migrations and transformations, like the one I led at Nykaa, taking them from Magento to a custom platform. 🔄💡
 
 So, in a nutshell, my software dev journey is a rollercoaster ride 🎢 that's taken me through multiple industries, languages, and tech. I live for the next challenge, love places that value innovation, and I'm all about creating solutions that make businesses shine. 🌟💼 My career is a testament to my dedication to making tech magic happen, and I'm just getting started! 🚀👊
-```
