@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```markdown
+🚀 In my rad 14+ year journey in the tech world, I've become a legit software wizard! 🧙‍♂️ It all started straight out of university when I joined Slideshare as one of their pioneer software engineers. 🎓👨‍💻 Since then, I've been coding my way through different fields, creating everything from e-commerce platforms 🛍️ to adtech solutions 📊 and advanced machine learning systems 🤖.
 
-Throughout my 14+ year career, I have gained extensive experience in all aspects of software development. My journey began straight out of university, where I joined Slideshare as one of their first software engineers. Since then, I've been deeply involved in the development of diverse software products, ranging from e-commerce marketplaces to adtech platforms and machine learning solutions.
+As the big boss (aka Senior Engineering Manager) at Tradus, I led a team of 15 talented engineers, and we launched India's first true e-commerce marketplace. 🛠️🏬 At Mailinblue and HTMedia, I designed solid, scalable systems and APIs, proving there's no tech challenge too big for me! 💪🔧
 
-I've demonstrated strong leadership skills as the Senior Engineering Manager at Tradus, where I managed a team of 15 engineers and delivered India's first true e-commerce marketplace. I've also flexed my technical muscles while creating scalable, robust systems and APIs for Mailinblue and HTMedia, among others.
+At Hike Limited, I lived my best life as a Machine Learning consultant, merging my software dev skills with my ML knowledge to file multiple patents and publish research papers. 📚👩‍🔬 I've also aced several migrations and transformations, like the one I led at Nykaa, taking them from Magento to a custom platform. 🔄💡
 
-As a Machine Learning consultant at Hike Limited, I combined my software development prowess with my deep understanding of machine learning to contribute to multiple patent filings and published papers. My experience also includes several successful migrations and transformations, like migrating Magento to a custom platform for Nykaa and transforming legacy systems into profitable businesses.
-
-Overall, my software development experience spans multiple industries, languages, and technologies, and I'm always ready for the next challenge. I thrive in environments that value innovation, scalability, and sound architecture. My career reflects my commitment to creating impactful solutions that drive business growth and my unwavering dedication to technology excellence.
+So, in a nutshell, my software dev journey is a rollercoaster ride 🎢 that's taken me through multiple industries, languages, and tech. I live for the next challenge, love places that value innovation, and I'm all about creating solutions that make businesses shine. 🌟💼 My career is a testament to my dedication to making tech magic happen, and I'm just getting started! 🚀👊
+```
