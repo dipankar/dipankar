@@ -1,23 +1,14 @@
-### About me
+🚀 About Me:
+I'm Dipankar Sarkar, a seasoned technologist with a passion for merging the boundaries between AI, blockchain, and deep tech. With a rich history of innovation, my journey is marked by the development of transformative solutions that redefine how technology enhances our lives and work.
 
-<!--
-**dipankar/dipankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI and Automation:
+At the heart of my projects is the mission to make AI and automation accessible and impactful. From developing RobotGPT, which simplifies robot programming using Large Language Models, to leading AI-driven initiatives at Hike, my focus is on creating solutions that are not just technologically advanced but also intuitive and user-centric.
 
-Here are some ideas to get you started:
+🔗 Blockchain Mastery:
+I believe in the power of blockchain to revolutionize industries. My work with Boom Protocol in developing multi-chain APIs stands testament to my commitment to creating decentralized, secure, and robust blockchain solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🚀 In my rad 14+ year journey in the tech world, I've become a legit software wizard! 🧙‍♂️ It all started straight out of university when I joined Slideshare as one of their pioneer software engineers. 🎓👨‍💻 Since then, I've been coding my way through different fields, creating everything from e-commerce platforms 🛍️ to adtech solutions 📊 and advanced machine learning systems 🤖.
+🌐 Open Source Contributions:
+I'm an avid supporter of open-source communities. My contributions range from offering novel AI algorithms to providing secure blockchain frameworks, ensuring that the tech community thrives through collaboration and shared innovation.
 
-As the big boss (aka Senior Engineering Manager) at Tradus, I led a team of 15 talented engineers, and we launched India's first true e-commerce marketplace. 🛠️🏬 At Mailinblue and HTMedia, I designed solid, scalable systems and APIs, proving there's no tech challenge too big for me! 💪🔧
-
-At Hike Limited, I lived my best life as a Machine Learning consultant, merging my software dev skills with my ML knowledge to file multiple patents and publish research papers. 📚👩‍🔬 I've also aced several migrations and transformations, like the one I led at Nykaa, taking them from Magento to a custom platform. 🔄💡
-
-So, in a nutshell, my software dev journey is a rollercoaster ride 🎢 that's taken me through multiple industries, languages, and tech. I live for the next challenge, love places that value innovation, and I'm all about creating solutions that make businesses shine. 🌟💼 My career is a testament to my dedication to making tech magic happen, and I'm just getting started! 🚀👊
+🌟 Let's Connect:
+Whether you're navigating the complexities of AI, delving into the intricacies of blockchain, or simply passionate about the future of technology, let's embark on this journey together. Connect with me on LinkedIn or drop me an email at me@dipankar.name 
