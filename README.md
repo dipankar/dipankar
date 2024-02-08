@@ -6,7 +6,7 @@ I currently live in beautiful Scotland. 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 I have built different kinds of systems ranging from payment systems, blockchain, analytics to embedded hardware. I have worked across India, Europe, and United States within many organisations at various levels.
 
-I created one of the earlier micro-blogging portals called [Kwippy](https://github.com/kwippy-com), analytics hypervisor [octo.ai](https://github.com/octoai) and make open source contributions to [kubernetes](https://github.com/dipankar/goryCadvisor).
+I created one of the earlier micro-blogging portals called [Kwippy](https://github.com/kwippy-com), wrote one of the first [book](https://github.com/dipankar/nginx-cookbook) for nginx, analytics hypervisor [octo.ai](https://github.com/octoai) and make open source contributions to [kubernetes](https://github.com/dipankar/goryCadvisor).
 
 I like building things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Golang, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
