@@ -1,19 +1,19 @@
-🚀 About Me:
+### Hey! I am [@dipankarsarkar](https://twitter.com/dipankarsarkar)(Dipankar Sarkar)👋
 
-I'm Dipankar Sarkar, a seasoned technologist with a passion for merging the boundaries between AI, blockchain, and deep tech. With a rich history of innovation, my journey is marked by the development of transformative solutions that redefine how technology enhances our lives and work.
+I am a software architect, part-time researcher and serial entrepreneur. 
 
-🤖 AI and Automation:
+I currently live in beautiful Scotland. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
-At the heart of my projects is the mission to make AI and automation accessible and impactful. From developing RobotGPT, which simplifies robot programming using Large Language Models, to leading AI-driven initiatives at Hike, my focus is on creating solutions that are not just technologically advanced but also intuitive and user-centric.
+I have built different kinds of systems ranging from payment systems, blockchain, analytics to embedded hardware. I have worked across India, Europe, and United States within many organisations at various levels.
 
-🔗 Blockchain Mastery:
+I created one of the earlier micro-blogging portals called [Kwippy](https://github.com/kwippy-com), analytics hypervisor [octo.ai](https://github.com/octoai) and make open source contributions to [kubernetes](https://github.com/dipankar/goryCadvisor).
 
-I believe in the power of blockchain to revolutionize industries. My work with Boom Protocol in developing multi-chain APIs stands testament to my commitment to creating decentralized, secure, and robust blockchain solutions.
+I like building things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Golang, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-🌐 Open Source Contributions:
+I spend quite a bit of time now working on ways to use AI within businesses. In my spare time, I research and write about AI & blockchain protocols. I do work closely with web3 protocols (experience with AI, DePIN, RWA) and open to research collaborations. Feel free to contact me, if any of my work resonates. 🤓
 
-I'm an avid supporter of open-source communities. My contributions range from offering novel AI algorithms to providing secure blockchain frameworks, ensuring that the tech community thrives through collaboration and shared innovation.
-
-🌟 Let's Connect:
-
-Whether you're navigating the complexities of AI, delving into the intricacies of blockchain, or simply passionate about the future of technology, let's embark on this journey together. Connect with me on LinkedIn or drop me an email at me@dipankar.name 
+You can find me on:
+ * [My website](https://dipankar.name)
+ * [Twitter](https://twitter.com/dipankarsarkar)
+ * [Linkedin](https://in.linkedin.com/in/dipankarsarkar)
+ * [Google scholar](https://scholar.google.com/citations?user=t_ikr2UAAAAJ&hl=en)
