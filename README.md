@@ -1,6 +1,6 @@
 ### Hey! I am [@dipankarsarkar](https://twitter.com/dipankarsarkar)(Dipankar Sarkar)👋
 
-I am a software architect, part-time researcher and serial entrepreneur. 
+I am a software architect, author, researcher and serial entrepreneur. 
 
 I currently live in beautiful Scotland. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
 
