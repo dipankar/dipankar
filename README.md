@@ -10,7 +10,11 @@ I created one of the earlier micro-blogging portals called [Kwippy](https://gith
 
 I like building things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Golang, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-I spend quite a bit of time now working on ways to use AI within businesses. In my spare time, I research, write and code around [Machine Learning/AI](https://github.com/terraprompt) , [blockchain protocols](https://github.com/cryptuon) & [Cybersecurity](https://github.com/hackaleph). I do work closely with web3 protocols (experience with AI, DePIN, RWA) and open to research collaborations. Feel free to contact me, if any of my work resonates. 🤓
+I spend quite a bit of time now working on ways to use AI within businesses. 
+
+In my spare time, I research, write and code around [Machine Learning/AI](https://github.com/terraprompt) , [blockchain protocols](https://github.com/cryptuon) & [Cybersecurity](https://github.com/hackaleph). I do work closely with web3 protocols (experience with AI, DePIN, RWA) and open to research collaborations. 
+
+Feel free to contact me, if any of my work resonates. 🤓
 
 You can find me on:
  * [My website](https://dipankar.name)
