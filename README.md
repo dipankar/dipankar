@@ -1,23 +1,60 @@
-### Hey! I am [@dipankarsarkar](https://twitter.com/dipankarsarkar)(Dipankar Sarkar)👋
+# Hi there, I'm Dipankar Sarkar 👋 
 
-I am a software architect, author, researcher and serial entrepreneur. 
+Senior Technology Leader specializing in AI, Platform Architecture & Innovation, currently based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-I currently live in beautiful Scotland. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+## About Me 🚀
 
-I have built different kinds of systems ranging from payment systems, blockchain, analytics to embedded hardware. I have worked across India, Europe, and United States within many organisations at various levels.
+I'm a seasoned technology leader with 15+ years of experience building innovative solutions across AI, robotics, and distributed systems. Currently focused on developing AI-powered solutions for enterprise applications and advancing the intersection of AI with robotics.
 
-I created one of the earlier micro-blogging portals called [Kwippy](https://github.com/kwippy-com), wrote one of the first [book](https://github.com/dipankar/nginx-cookbook) for nginx, analytics hypervisor [octo.ai](https://github.com/octoai) and make open source contributions to [kubernetes](https://github.com/dipankar/goryCadvisor).
+### What I'm Working On 🔭
 
-I like building things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Golang, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+- Developing AI-powered productivity tools for global supply chain operations
+- Pioneering work in robot programming through LLM interfaces (RobotGPT)
+- Researching applications of AI in business process automation
+- Contributing to open-source projects in ML/AI and distributed systems
 
-I spend quite a bit of time now working on ways to use AI within businesses. 
+### Technical Expertise 💻
 
-In my spare time, I research, write and code around [Machine Learning/AI](https://github.com/terraprompt) , [blockchain protocols](https://github.com/cryptuon) & [Cybersecurity](https://github.com/hackaleph). I do work closely with web3 protocols (experience with AI, DePIN, RWA) and open to research collaborations. 
+- **AI/ML**: Advanced experience with LLMs, Computer Vision, ML Infrastructure
+- **Cloud & Infrastructure**: AWS, Kubernetes, Distributed Systems
+- **Languages**: Python, Rust, TypeScript/JavaScript
+- **Technologies**: TensorFlow, PyTorch, LangChain, React, Node.js
+- **Databases**: SQL, NoSQL, Redis
+- **Web3/Blockchain**: DeFi, Smart Contracts, MPC Wallet Infrastructure
 
-Feel free to contact me, if any of my work resonates. 🤓
+### Notable Projects 🏆
 
-You can find me on:
- * [My website](https://dipankar.name)
- * [Twitter](https://twitter.com/dipankarsarkar)
- * [Linkedin](https://in.linkedin.com/in/dipankarsarkar)
- * [Google scholar](https://scholar.google.com/citations?user=t_ikr2UAAAAJ&hl=en)
+- **RobotGPT**: Revolutionized robot programming through voice and text-enabled LLM interfaces
+- **AutoInspect/AutoSpray**: Developed autonomous ML pipelines for industrial applications
+- **Hikemoji**: Led development of computer vision platform serving 100M+ users
+- **[Kwippy](https://github.com/kwippy-com)**: Created one of the earlier micro-blogging platforms
+- **[octo.ai](https://github.com/octoai)**: Built analytics hypervisor
+- **[nginx-cookbook](https://github.com/dipankar/nginx-cookbook)**: Authored one of the first books on nginx
+
+### Leadership Impact 👥
+
+- Built and led engineering teams across multiple unicorn startups
+- Secured $2.5M+ in pre-product investment
+- Established strategic partnerships with major technology players
+- Scaled platforms serving 100M+ users
+
+### Research Interests 📚
+
+- Machine Learning/AI ([terraprompt](https://github.com/terraprompt))
+- Blockchain Protocols ([cryptuon](https://github.com/cryptuon))
+- Cybersecurity ([hackaleph](https://github.com/hackaleph))
+
+## Let's Connect! 🤝
+
+- 🌐 [Website](https://dipankar.name)
+- 🐦 [Twitter](https://twitter.com/dipankarsarkar)
+- 💼 [LinkedIn](https://in.linkedin.com/in/dipankarsarkar)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=t_ikr2UAAAAJ&hl=en)
+- 📧 [Email](mailto:me@dipankar.name)
+
+### Open for Opportunities 💡
+
+- Technical Leadership roles in AI/ML
+- Research Collaborations in AI and Web3
+- Advisory positions for startups
+- Speaking engagements and technical workshops
