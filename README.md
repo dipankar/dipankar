@@ -38,11 +38,11 @@ I'm a seasoned technology leader with 15+ years of experience building innovativ
 - Established strategic partnerships with major technology players
 - Scaled platforms serving 100M+ users
 
-### Research Interests 📚
+### Research Interests 📚 ([Research website](https://www.dipankar.cc))
 
-- Machine Learning/AI ([terraprompt](https://github.com/terraprompt))
-- Blockchain Protocols ([cryptuon](https://github.com/cryptuon))
-- Cybersecurity ([hackaleph](https://github.com/hackaleph))
+- Machine Learning/AI 
+- Blockchain Protocols
+- Cybersecurity
 
 ## Let's Connect! 🤝
 
@@ -50,7 +50,7 @@ I'm a seasoned technology leader with 15+ years of experience building innovativ
 - 🐦 [Twitter](https://twitter.com/dipankarsarkar)
 - 💼 [LinkedIn](https://in.linkedin.com/in/dipankarsarkar)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=t_ikr2UAAAAJ&hl=en)
-- 📧 [Email](mailto:me@dipankar.name)
+
 
 ### Open for Opportunities 💡
 
@@ -58,3 +58,5 @@ I'm a seasoned technology leader with 15+ years of experience building innovativ
 - Research Collaborations in AI and Web3
 - Advisory positions for startups
 - Speaking engagements and technical workshops
+
+📧 [Email](mailto:me@dipankar.name)
