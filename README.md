@@ -1,4 +1,3 @@
-# Dipankar Sarkar
 ## Senior Technology Leader | AI & Platform Architecture | Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## Proven Results
